@@ -1,2 +1,2 @@
-# iara-
-PWA publicado pelo APK Builder
+# iara-4
+Assistente Juridico — gerado pelo SK Code Editor
